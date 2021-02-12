@@ -1,5 +1,5 @@
 # demonoy
-<span style="color:blue">some *blue* text</span>.
+> Roses are [red and **bold**]{color="red"} and
 | No  | Name         | Version |
 | --- | ------------ | ------- |
 | 1   | ```Java ```        |----8----|
